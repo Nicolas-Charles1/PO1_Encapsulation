@@ -21,5 +21,20 @@ namespace PO1_Encapsulation
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Personnage joueur = new Personnage();
+            joueur.PuissanceAttaque = 1;
+            joueur.PointsDeVie = 10;
+            Personnage monstre = new Personnage();
+            monstre.PuissanceAttaque = 3;
+            monstre.PointsDeVie = 30;
+        }
+
+        private void lbl_pointsVieJoueur_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
