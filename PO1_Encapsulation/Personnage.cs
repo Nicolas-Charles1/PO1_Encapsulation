@@ -10,8 +10,21 @@ namespace PO1_Encapsulation
     {
         int pointsDeVie;
         int puissanceAttaque;
+        int pointsDeVieMaximal;
 
-        public int PointsDeVie { get => pointsDeVie; set => pointsDeVie = value; }
+        public int PointsDeVie
+        {
+            get => pointsDeVie;
+            set
+            {
+                if (value < 0)
+                {
+                    pointsDeVie = 0;
+                }
+                else pointsDeVie = value;
+            }
+        }
         public int PuissanceAttaque { get => puissanceAttaque; set => puissanceAttaque = value; }
     }
-}
+    
+    }

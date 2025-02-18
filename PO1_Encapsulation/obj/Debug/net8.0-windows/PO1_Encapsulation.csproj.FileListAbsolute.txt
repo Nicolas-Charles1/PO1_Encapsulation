@@ -1,0 +1,17 @@
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\bin\Debug\net8.0-windows\PO1_Encapsulation.exe
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\bin\Debug\net8.0-windows\PO1_Encapsulation.deps.json
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\bin\Debug\net8.0-windows\PO1_Encapsulation.runtimeconfig.json
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\bin\Debug\net8.0-windows\PO1_Encapsulation.dll
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\bin\Debug\net8.0-windows\PO1_Encapsulation.pdb
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.Form1.resources
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.csproj.GenerateResource.cache
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.AssemblyInfo.cs
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.sourcelink.json
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.dll
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\refint\PO1_Encapsulation.dll
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.pdb
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\PO1_Encapsulation.genruntimeconfig.cache
+C:\Users\2347298\Source\Repos\PO1_Encapsulation\PO1_Encapsulation\obj\Debug\net8.0-windows\ref\PO1_Encapsulation.dll
